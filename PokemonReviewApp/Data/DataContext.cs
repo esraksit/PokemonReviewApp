@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using PokemonReviewApp.Models;
-
 namespace PokemonReviewApp.Data
 {
     public class DataContext : DbContext
